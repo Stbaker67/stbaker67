@@ -13,4 +13,4 @@ i intend to redevelop this site in the future by myself using the skills i am go
 
 i also intend to improve on the site "(www.Ukragro.com)"
 
-i am here because of [Ukraine war][ukraine]
+i am here because of [http://upload.wikipedia.Ukraine war][ukraine]
