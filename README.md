@@ -4,7 +4,7 @@ i am a Ukrainian citizen, but I live here in Leverkusen Germany at present.
 ## i am learning wed development at [BEAM INSTITUTE OF TECHNOLOGY!]
 its a great institution for vocational /further learning here at the German 
 capital city of Berlin. I do online training but the institute has its own website 
-which you can vitis here **(www.beaminstitute.org)**
+which you can vitis here **(https://beaminstitute.org/)**
 
 ### "next week i will try to build my first website" I shall call it _*The prince of lev!*_
 
