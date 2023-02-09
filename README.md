@@ -12,3 +12,5 @@ which you can vitis here **(www.beaminstitute.org)**
 i intend to redevelop this site in the future by myself using the skills i am going to learn from the course of this training
 
 i also intend to improve on the site "(www.Ukragro.com)"
+
+i am here because of [Ukraine war][ukraine]
