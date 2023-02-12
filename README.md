@@ -8,7 +8,7 @@ which you can vitis here **(https://beaminstitute.org/)**
 
 ### "next week i will try to build my first website" I shall call it _*The prince of lev!*_
 
-#### i had a website made for our company before, you can seebit here (www.ruslanaintegrated.com)
+#### i had a website made for our company before, you can see it here (www.ruslanaintegrated.com)
 i intend to redevelop this site in the future by myself using the skills i am going to learn from the course of this training
 
 i also intend to improve on the site "(www.Ukragro.com)"
